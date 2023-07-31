@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = '5idereal'
+theme = 'gallery'
+
+[params]
+  title = "5idereal"
+  description = "巴拉巴拉"
+  defaultTheme = "dark"
+
+[author]
+  name = "Enfeng Tsao"
