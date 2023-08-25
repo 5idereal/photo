@@ -2,7 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = '5idereal'
 theme = 'gallery'
-timeout = '60s'
+timeout = '300s'
 
 [params]
   title = "5idereal"
