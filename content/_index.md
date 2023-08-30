@@ -1,6 +1,6 @@
 ---
 title: 5idereal
-linktitle: Home
+linktitle: 首頁
 description: 巴拉巴拉
 #lastmod: 2023-07-05
 featured_image: DSCF3814-2-Enhanced-NR.jpg # default: first image in this directory
