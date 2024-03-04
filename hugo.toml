@@ -2,11 +2,11 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = '5idereal'
 theme = 'gallery'
-timeout = '600s'
+timeout = '1800s'
 
 [params]
   title = "5idereal"
-  description = "巴拉巴拉"
+  description = ""
   defaultTheme = "dark"
 
 [author]
