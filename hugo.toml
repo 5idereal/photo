@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+languageCode = 'zh-tw'
+timezone = 'Asia/Taipei'
 title = '5idereal'
 theme = 'gallery'
 timeout = '1800s'
@@ -12,29 +12,6 @@ copyright = "© Enfeng Tsao"
 
 [author]
   name = "Enfeng Tsao"
-
-[module]
-  [[module.mounts]]
-    source = "assets"
-    target = "assets"
-  [[module.mounts]]
-    source = "hugo_stats.json"
-    target = "assets/watching/hugo_stats.json"
-
-[build]
-  writeStats = true
-  [[build.cachebusters]]
-    source = "assets/watching/hugo_stats\\.json"
-    target = "styles\\.css"
-  [[build.cachebusters]]
-    source = "(postcss|tailwind)\\.config\\.js"
-    target = "css"
-  [[build.cachebusters]]
-    source = "assets/.*\\.(js|ts|jsx|tsx)"
-    target = "js"
-  [[build.cachebusters]]
-    source = "assets/.*\\.(.*)$"
-    target = "$1"
 
 [menu]
   [[menu.footer]]
