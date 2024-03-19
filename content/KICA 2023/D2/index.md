@@ -1,4 +1,4 @@
 ---
-title: KICA 2023 D2
+title: D2
 description: 2023/10
 ---
