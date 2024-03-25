@@ -3,5 +3,8 @@
   "scripts": {
     "build": "hugo --gc --minify",
     "dev": "hugo server"
+  },
+  "dependencies": {
+    "exifreader": "^4.21.1"
   }
 }
