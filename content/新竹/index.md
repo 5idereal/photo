@@ -1,5 +1,5 @@
 ---
 title: 原神 主題日
-description: 2024/3
+description: "Special Thanks: 吳柏叡"
 weight: 1
 ---
