@@ -9,12 +9,12 @@ copyright = "© Enfeng Tsao"
   title = "5idereal"
   description = ""
   defaultTheme = "dark"
-
-[author]
-  name = "Enfeng Tsao"
-
-[menu]
-  [[menu.footer]]
-    name = "GitHub"
-    url = "https://github.com/5idereal"
-    weight = 3
+  [params.author]
+    email = "contact@5idereal.cc"
+    name = "Enfeng Tsao"
+  [params.socialIcons]
+    facebook = "https://www.facebook.com/5idereal"
+    instagram = "https://www.instagram.com/enfeng_tsao"
+    github = "https://github.com/5idereal"
+    youtube = "https://www.youtube.com/5idereal"
+    email = "mailto:contact@5idereal.cc"
