@@ -1,4 +1,4 @@
 ---
-title: PF38
+title: 38
 description: "Special Thanks: 廖岑翰"
 ---
