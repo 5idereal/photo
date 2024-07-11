@@ -5,6 +5,6 @@
     "dev": "hugo server"
   },
   "dependencies": {
-    "exifreader": "^4.23.2"
+    "exifreader": "^4.23.3"
   }
 }
